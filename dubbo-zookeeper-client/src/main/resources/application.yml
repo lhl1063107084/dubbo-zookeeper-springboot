@@ -1,0 +1,9 @@
+server:
+  port: 8002
+
+## Dubbo 服务消费者配置
+spring.dubbo.application.name: consumer
+spring.dubbo.registry.address: zookeeper://127.0.0.1:2181
+spring.dubbo.protocol.name: dubbo     #dubbo 协议   (作为服务方提供,客户端不用写。此处测试项目即作为服务端,又作为客户端)
+spring.dubbo.protocol.port: 20881     #默认20880    (作为服务方提供)
+spring.dubbo.scan: com.dubbo.service

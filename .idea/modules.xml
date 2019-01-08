@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbo-zookeeper-common/common.iml" filepath="$PROJECT_DIR$/dubbo-zookeeper-common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-zookeeper.iml" filepath="$PROJECT_DIR$/dubbo-zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-zookeeper-client/dubbo-zookeeper-client.iml" filepath="$PROJECT_DIR$/dubbo-zookeeper-client/dubbo-zookeeper-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-zookeeper-server/dubbo-zookeeper-server.iml" filepath="$PROJECT_DIR$/dubbo-zookeeper-server/dubbo-zookeeper-server.iml" />
+    </modules>
+  </component>
+</project>
